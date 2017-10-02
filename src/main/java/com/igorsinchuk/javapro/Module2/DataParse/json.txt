@@ -1,0 +1,11 @@
+{
+    "name": "Igor",
+    "surname": "Sinchuk",
+    "phones": ["044-111-22-33", "099-111-22-33"],
+    "sites": ["http://nosite1.com", "http://nosite2.com"],
+    "address": {
+         "country": "UA",
+         "city": "Kyiv",
+         "street": "a1"
+    }
+}
